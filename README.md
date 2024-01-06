@@ -1,1 +1,1 @@
-Simple Guessing Game c# using if statements 
+Simple Guessing Game on C# using if statements 
